@@ -4,6 +4,9 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue)](https://www.typescriptlang.org/)
+[![GitHub stars](https://img.shields.io/github/stars/bhbaekhodev-commits/printbridge?style=social)](https://github.com/bhbaekhodev-commits/printbridge/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/bhbaekhodev-commits/printbridge)](https://github.com/bhbaekhodev-commits/printbridge/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ## Problem Statement
 
