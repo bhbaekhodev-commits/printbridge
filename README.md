@@ -326,6 +326,27 @@ git push
 
 ---
 
+### 🧠 프레임워크 깊이 이해하기
+
+**더 깊은 이해를 원한다면:** [프레임워크 & 라이브러리 가이드](FRAMEWORKS.md)
+
+이 문서에서는 PrintBridge에서 사용하는 모든 기술을 다음 관점으로 설명합니다:
+- 🔷 **집합론적 구조**: 계층과 포함 관계
+- 🔗 **관계**: 다른 기술과의 연결고리
+- ⚡ **현상**: 실제 작동 방식
+- ⚖️ **모순**: 장단점과 트레이드오프
+
+**다루는 기술:**
+- Turborepo (모노레포)
+- TypeScript (타입 시스템)
+- React (UI 라이브러리)
+- Vitest (테스트)
+- 그 외 주요 도구들
+
+이 방법으로 새로운 프레임워크를 배우면 **본질을 빠르게 파악**할 수 있습니다!
+
+---
+
 ## Contributing
 
 Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for details.
